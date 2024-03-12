@@ -1,0 +1,16 @@
+{
+  "name": "my-express-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "WeiJun Liao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
